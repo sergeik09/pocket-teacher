@@ -1,7 +1,7 @@
 import telebot
 import json
 import random
-TOKEN = "7714189885:AAGerTjiWvX3LK3sKvZd4nSRfC8TWxP9M5c"
+TOKEN = "your telegram token"
 
 bot = telebot.TeleBot(TOKEN)
 try:
